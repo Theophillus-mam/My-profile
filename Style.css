@@ -1,0 +1,60 @@
+body{
+    background-color: bisque;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    }
+
+.logo{
+    padding: 12px;
+}
+.logo h3{
+    color: blue;
+
+}
+ul{
+    display: flex;
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+li{
+    padding-left: 22px;
+}
+li a{
+    font-size: medium;
+    color: rgb(255, 0, 0);
+}
+.contact-icon{
+    margin: 4px;
+}
+.Hero{
+    justify-content: space-around;
+    display: flex;
+    
+    }
+.hero-photo{
+    width: 360px;
+    height: 360px;
+    border-radius: 50%;
+    
+}
+.stack-content{
+    text-align: center;
+}
+.web-apps{
+    text-align: center;
+}
+.table{
+    display: flex;
+    justify-content: space-around;
+}
+.table2{
+    display: flex;
+    justify-content: space-around;
+}
+th{
+    text-align: center;
+}
